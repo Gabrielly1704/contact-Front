@@ -41,7 +41,7 @@ Além disto é bom ter um editor para trabalhar com o código como por exemplo [
 
 # Clone o repositório: git clone <https://github.com/Gabrielly1704/FrontEnd-Contacts.git>
 
-# Instale as dependências do Back End:
+# Instale as dependências do Front End:
 $ npm install
 
 # npm init -y
