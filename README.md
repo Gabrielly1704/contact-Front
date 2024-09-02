@@ -39,22 +39,18 @@ Além disto é bom ter um editor para trabalhar com o código como por exemplo [
 
 # Npm instalado
 
-# Clone o repositório: git clone <https://github.com/Gabrielly1704/FrontEnd-Contacts.git>
+# Clone o repositório: git clone <https://github.com/Gabrielly1704/contact-Front.git>
 
 # Instale as dependências do Front End:
 $ npm install
 
-# npm init -y
+# Instale a Biblioteca das Rotas
+$ npm install react-router-dom
 
-# npm install typescript ts-node @types/node --save-dev
+# Instale a Biblioteca de Icones
+$ npm install react-icons
 
-# npx tsc –init
-
-# npm install prisma --save-dev
-
-# npx prisma init
-
-# Inicie seu servidor:
+# Inicie seu Projeto:
 $ npm run dev
 
 ```
